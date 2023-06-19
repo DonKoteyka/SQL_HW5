@@ -1,0 +1,55 @@
+[
+    {
+        "email": "Rob.Zombie@mail.ru",
+        "name": "Rob",
+        "phone": [
+            895424654
+        ],
+        "surname": "Zombie"
+    },
+    {
+        "email": "Oleg.Abramov@mail.ru",
+        "name": "Oleg",
+        "phone": [
+            895424655
+        ],
+        "surname": "Abramov"
+    },
+    {
+        "email": "Billie Joe.Armstrong@mail.ru",
+        "name": "Billie Joe",
+        "phone": [
+            123556754,
+            895424656
+        ],
+        "surname": "Armstrong"
+    },
+    {
+        "email": "Thomas.DeLonge@mail.ru",
+        "name": "Thomas",
+        "phone": [
+            895424658
+        ],
+        "surname": "DeLonge"
+    },
+    {
+        "email": "KanyeOmari.West@mail.ru",
+        "name": "Kanye Omari",
+        "phone": [
+            895424659
+        ],
+        "surname": "West"
+    },
+    {
+        "email": "Joseph.Saddler@mail.ru",
+        "name": "Joseph",
+        "phone": [],
+        "surname": "Saddler"
+    },
+        {
+        "email": "Junior.Saddler@mail.ru",
+        "name": "Junior",
+        "phone": [],
+        "surname": "Saddler"
+    }
+]
